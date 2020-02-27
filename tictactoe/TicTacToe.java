@@ -61,7 +61,7 @@ public class TicTacToe extends JFrame{
 			}
 		});
 		
-		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		setVisible(true);
 	}
 	
